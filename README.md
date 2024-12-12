@@ -5,8 +5,15 @@ This project aims to predict loan approval statuses based on transaction and cus
 ## Task Summary: 
 
 The Non-Banking Financial Company (NBFC) is developing a classification model to predict loan repayment behaviour, 
-specifically identifying potential defaulters and non-defaulters. The primary goal is to 
-enhance risk assessment and improve the loan approval process. 
+specifically identifying potential defaulters and non-defaulters. 
+
+The primary goal is to:
+
+• Develop a classification model to predict loan repayment behavior.
+
+• Identify potential defaulters and non-defaulters.
+
+• Enhance risk assessment and improve the loan approval process.
 
 ## Data Overview: 
 
