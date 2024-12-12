@@ -1,13 +1,10 @@
 # Classification problem for Loan Default Prediction
 
-This project aims to predict loan approval statuses based on transaction and customer data using machine learning techniques. The goal is to build a model that accurately classifies whether a loan application will be approved or denied, based on historical transactional data
+This project aims to predict loan approval statuses for for a Non-Banking Financial Company (NBFC) based on transaction and customer data using machine learning techniques. The goal is to build a model that accurately classifies whether a loan application will be approved or denied, based on historical transactional data
 
 ## Task Summary: 
 
-The Non-Banking Financial Company (NBFC) is developing a classification model to predict loan repayment behaviour, 
-specifically identifying potential defaulters and non-defaulters. 
-
-The primary goal is to:
+The primary goal of NBFC is to:
 
 • Develop a classification model to predict loan repayment behavior.
 
