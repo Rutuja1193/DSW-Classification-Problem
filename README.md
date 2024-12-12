@@ -6,13 +6,13 @@ This project aims to predict loan approval statuses for for a Non-Banking Financ
 
 The primary goal of NBFC is to:
 
-• Develop a classification model to predict loan repayment behavior.
+   • Develop a classification model to predict loan repayment behavior.
 
-• Identify potential defaulters and non-defaulters.
+   • Identify potential defaulters and non-defaulters.
 
-• Enhance risk assessment and improve the loan approval process.
+   • Enhance risk assessment and improve the loan approval process.
 
-#
+## Repository Structure
 
 ## Data Overview: 
 
