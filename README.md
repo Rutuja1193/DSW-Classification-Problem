@@ -107,6 +107,6 @@ cd DSW-Classification-Problem
 ```
 Run the notebooks:
 
-EDA: Solution notebook/`eda.ipynb`
+• EDA: `Solution notebook/eda.ipynb`
 
-Model Training & Evaluation: Solution notebook/`ModelTraining_Evaluation.ipynb`
+• Model Training & Evaluation: `Solution notebook/ModelTraining_Evaluation.ipynb`
