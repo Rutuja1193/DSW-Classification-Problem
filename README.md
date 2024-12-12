@@ -8,10 +8,14 @@ enhance risk assessment and improve the loan approval process.
 ## Data Overview: 
 
 • Historic data: Loan disbursement application and their default and non-default 
-status for past 2 years+ has been kept in the file. File name: train_data.xlsx 
+status for past 2 years+ has been kept in the file. 
+
+File name: `train_data.xlsx `
 
 • Validation data: Loan disbursement application and their default and non-default 
-status for past 3 months has been kept in the file. File name: test_data.xlsx 
+status for past 3 months has been kept in the file. 
+
+File name: `test_data.xlsx` 
 
 ## Key Features:
 
@@ -44,6 +48,6 @@ cd DSW-Classification-Problem
 ```
 Run the notebooks:
 
-EDA: Solution notebook/eda.ipynb
+EDA: Solution notebook/`eda.ipynb`
 
-Model Training & Evaluation: Solution notebook/ModelTraining_Evaluation.ipynb
+Model Training & Evaluation: Solution notebook/`ModelTraining_Evaluation.ipynb`
