@@ -32,5 +32,7 @@ Navigate to the project directory:
 cd DSW-Classification-Problem
 ```
 Run the notebooks:
+
 EDA: Solution notebook/eda.ipynb
+
 Model Training & Evaluation: Solution notebook/Model Training_Evaluation.ipynb
