@@ -58,7 +58,7 @@ File name: `test_data.xlsx`
 
 4. Model Selection & Training:
 
-      • Classification models USED: `Decision Tree`, `Logistic Regression`, `XGBoost`, `KNN`, `Naive Bayes` and `Random Forest`
+      • Classification models USED: `Decision Tree`, `Logistic Regression`, `XGBoost`, `KNN` and `Naive Bayes`
  
       • Used an object-oriented, class-based approach with methods for data loading, preprocessing, training, testing, and prediction.
   
