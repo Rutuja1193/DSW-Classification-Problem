@@ -5,6 +5,7 @@ specifically identifying potential defaulters and non-defaulters. The primary go
 enhance risk assessment and improve the loan approval process. 
 
 Data Overview: 
+
 • Historic data: Loan disbursement application and their default and non-default 
 status for past 2 years+ has been kept in the file. File name: train_data.xlsx 
 • Validation data: Loan disbursement application and their default and non-default 
