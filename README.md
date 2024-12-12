@@ -21,7 +21,7 @@ DSW-Classification-Problem
 │   ├── train_data.xlsx
 ├── Problem Statement
 │   ├── DSW_ML_Problem_Statement.pdf
-├── Solution Notebook
+├── Solution Notebooks
 │   ├── eda.ipynb
 │   ├── ModelTraining_Evaluation.ipynb
 ├── Rutuja Patil.zip
@@ -107,6 +107,6 @@ cd DSW-Classification-Problem
 ```
 Run the notebooks:
 
-• EDA: `Solution notebook/eda.ipynb`
+• EDA: `Solution notebooks/eda.ipynb`
 
-• Model Training & Evaluation: `Solution notebook/ModelTraining_Evaluation.ipynb`
+• Model Training & Evaluation: `Solution notebooks/ModelTraining_Evaluation.ipynb`
