@@ -12,6 +12,8 @@ The primary goal of NBFC is to:
 
 • Enhance risk assessment and improve the loan approval process.
 
+#
+
 ## Data Overview: 
 
 • Historic data: Loan disbursement application and their default and non-default 
@@ -33,6 +35,41 @@ File name: `test_data.xlsx`
 
 **Target variable:**  
 `loan_status`: (`1` for default, `0` for non-default)
+
+# Workflow
+
+1. Exploratory Data Analysis (EDA):
+
+  • Analyze the dataset to uncover patterns and relationships.
+  
+  • Visualize key features and explore correlations with loan repayment behavior.
+
+2. Data Preprocessing:
+
+  • Clean and preprocess the data, including handling missing values and outliers.
+
+  • Parse datetime features (e.g., transaction date) and extract relevant information like year, month, day, hour, and minute.
+
+3. Feature Engineering:
+
+  • Encode categorical variables (e.g., loan status, customer demographics) into numerical formats.
+
+  • Split the data into input features (X) and target variable (y), where the target is the loan repayment behavior (default or non-default).
+
+4. Model Selection & Training:
+
+  • Classification models USED: `Decision Tree`, `Logistic Regression`, `XGBoost`, `KNN`, `Naive Bayes` and `Random Forest`
+ 
+  • Used an object-oriented, class-based approach with methods for data loading, preprocessing, training, testing, and prediction.
+  
+  • Tune hyperparameters using GridSearchCV for optimal model configuration.
+
+5. Model Evaluation:
+
+  • Evaluate model performance on the test set using metrics like accuracy, confusion matrix, precision, recall, and F1-score.
+
+  • Assess the model's ability to classify defaulters and non-defaulters accurately.
+
 
 
 # Installation and Usage
