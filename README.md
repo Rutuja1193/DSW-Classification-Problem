@@ -14,6 +14,21 @@ The primary goal of NBFC is to:
 
 ## Repository Structure
 
+```bash
+DSW-Classification-Problem
+├── Dataset
+│   ├── test_data.xlsx
+│   ├── train_data.xlsx
+├── Problem Statement
+│   ├── DSW_ML_Problem_Statement.pdf
+├── Solution Notebook
+│   ├── eda.ipynb
+│   ├── ModelTraining_Evaluation.ipynb
+├── Rutuja Patil.zip
+├── LICENSE
+└── README.md
+```
+
 ## Data Overview: 
 
 • Historic data: Loan disbursement application and their default and non-default 
